@@ -18,8 +18,6 @@ Classification accuracy is defined as the number of correct predictions divided 
 $$Accuracy = \frac{TP+TN}{TP+FP+TN+FN}$$
 where TP is the number of true positives, TN is the number of true negatives, FP is the number of false positives, and FN is the number of false negatives.
 
-![Confusion matrix](https://github.com/marchesiello/IBM-Data-Science-Capstone-SpaceX/blob/main/Plots/Confusion%20matrix.PNG)
-
 ## Deliverables
 - Accurate predictive algorithms
 - Business case report to stakeholders
